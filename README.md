@@ -5,7 +5,6 @@ Image-based fashion product recommender. Upload a photo of a fashion item and th
 Görsel tabanlı moda öneri sistemi: bir ürün fotoğrafı yükleyin, uygulama katalogdaki görsel olarak en benzer ürünleri önerir.
 
 - 🤗 **Model (Hugging Face):** https://huggingface.co/tufanyldrm1989/fashion-recommender-model
-- 🚀 **Live app (Streamlit):** _Streamlit uygulama linkinizi buraya yazın_
 - 📓 **Training notebook:** `Fashion_Recommender_Model.ipynb` (in the Hugging Face repo)
 
 ## How it works / Nasıl çalışır
